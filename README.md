@@ -1,10 +1,10 @@
-# beer-search
+# beerhum
 
 To run:
 
 ```
 go get
-beer-search
+beerhum
 ```
 
 An example app using [bleve](http://github.com/blevesearch/bleve) to index beers and breweries.
